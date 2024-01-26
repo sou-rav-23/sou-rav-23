@@ -5,6 +5,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Sourav Maity</h1>
 <h4 align="center">I'm an Algorithm Developer Intern and Competitive Coder able to work with data structures such as queues and stacks, apply basic sorting algorithms proficiently, and able to demonstrate a keen understanding of complexity analysis and dynamic programming. I focus on writing clean, elegant, and efficient code ✨.</h4>
+<!--
+<img align="right" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" width="50%"  />
+-->
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/06f21a161921919.63cd7887d0a70.gif?auto=format" width="50%"  />
 
 🌍 I live in the Bankura district of West Bengal, India.
 
