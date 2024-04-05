@@ -17,14 +17,21 @@
 
 🐍 I have learned a couple of Python libraries like pyTube, py-Script, request & instaloader.
 
+
+#####  click to :   
+[![Gmail](https://img.shields.io/badge/Reach%20out%20to%20me%20at-%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav420vikrant@gmail.com)
+
+[![myportFolio](https://img.shields.io/badge/My-PortFolio-cyan?logo=portfolio&logoColor=white)](https://sou-rav-23.github.io/Portfolio/).  
+
+
+<!--
 [![reachOut](https://img.shields.io/badge/Reach%20out%20to%20me-%20at-20B2AA?style=for-the-badge&lColor=white)](sourav420vikrant@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav420vikrant@gmail.com)
-
+ -->
 <!--
 📧 Email - sourav420vikrant@gmail.com
 -->
 
-[![myportFolio](https://img.shields.io/badge/My-PortFolio-cyan?logo=portfolio&logoColor=white)](https://sou-rav-23.github.io/Portfolio/).
 
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav6/) 
