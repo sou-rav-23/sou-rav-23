@@ -17,7 +17,8 @@
 
 🐍 I have learned a couple of Python libraries like pyTube, py-Script, request & instaloader.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sourav420vikrant@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav420vikrant@gmail.com)
+
 <!--
 📧 Email - sourav420vikrant@gmail.com
 -->
