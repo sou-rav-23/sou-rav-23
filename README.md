@@ -19,9 +19,9 @@
 
 
 #####  click to :   
-[![Gmail](https://img.shields.io/badge/Reach%20out%20to%20me%20at-%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav420vikrant@gmail.com)
+[![Gmail](https://img.shields.io/badge/Reach%20out%20to%20me%20at-%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&target="_blank")](mailto:sourav420vikrant@gmail.com)
 
-[![myportFolio](https://img.shields.io/badge/My-PortFolio-cyan?logo=portfolio&logoColor=white)](https://sou-rav-23.github.io/Portfolio/).  
+[![myportFolio](https://img.shields.io/badge/My-PortFolio-cyan?logo=portfolio&logoColor=white&target="_blank")](https://sou-rav-23.github.io/Portfolio/).  
 
 
 <!--
@@ -36,7 +36,7 @@
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/sourav6/) 
   [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=GitHub&logoColor=white&target=_blank)](https://github.com/sou-rav-23)
-  [![LeetCode](https://img.shields.io/badge/leetcode-grey?logo=LeetCode&logoColor=f2ca44&target="_blank")](https://leetcode.com/sou_rav_23/)
+  [![LeetCode](https://img.shields.io/badge/leetcode-grey?logo=LeetCode&logoColor=f2ca44&target=_blank)](https://leetcode.com/sou_rav_23/)
 
 
 # 💻 Tech Stack
