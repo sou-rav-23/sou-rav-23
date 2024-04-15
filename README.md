@@ -34,8 +34,8 @@
 
 
 ## 🌐 Socials
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/sourav6/) 
-  [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=GitHub&logoColor=white&target="_blank")](https://github.com/sou-rav-23)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/sourav6/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=GitHub&logoColor=white&target=_blank)](https://github.com/sou-rav-23)
   [![LeetCode](https://img.shields.io/badge/leetcode-grey?logo=LeetCode&logoColor=f2ca44&target="_blank")](https://leetcode.com/sou_rav_23/)
 
 
