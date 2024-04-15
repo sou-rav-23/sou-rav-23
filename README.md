@@ -25,8 +25,8 @@
 
 
 <!--
-[![reachOut](https://img.shields.io/badge/Reach%20out%20to%20me-%20at-20B2AA?style=for-the-badge&lColor=white)](sourav420vikrant@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav420vikrant@gmail.com)
+[![reachOut](https://img.shields.io/badge/Reach%20out%20to%20me-%20at-20B2AA?style=for-the-badge&lColor=white&target="_blank")](sourav420vikrant@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&target="_blank")](mailto:sourav420vikrant@gmail.com)
  -->
 <!--
 📧 Email - sourav420vikrant@gmail.com
@@ -34,9 +34,9 @@
 
 
 ## 🌐 Socials
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav6/) 
-  [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=GitHub&logoColor=white)](https://github.com/sou-rav-23)
-  [![LeetCode](https://img.shields.io/badge/leetcode-grey?logo=LeetCode&logoColor=f2ca44)](https://leetcode.com/sou_rav_23/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/sourav6/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=GitHub&logoColor=white&target="_blank")](https://github.com/sou-rav-23)
+  [![LeetCode](https://img.shields.io/badge/leetcode-grey?logo=LeetCode&logoColor=f2ca44&target="_blank")](https://leetcode.com/sou_rav_23/)
 
 
 # 💻 Tech Stack
