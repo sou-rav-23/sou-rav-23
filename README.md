@@ -17,8 +17,9 @@
 🐍 I have learned a couple of Python libraries like pyTube, py-Script, request & instaloader.
 
 💬 Ask me about **Python** and **JavaScript**
-
-📫 How to reach me :  [sourav420vikrant@gmail.com](mailto:sourav420vikrant@gmail.com)
+<!-- 
+  📫 How to reach me :  [sourav420vikrant@gmail.com](mailto:sourav420vikrant@gmail.com)
+-->
 
 
 
